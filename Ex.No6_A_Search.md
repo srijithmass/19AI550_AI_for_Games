@@ -2,9 +2,9 @@
 
 ### DATE: 
 
-### NAME : YAMUNAASRI T S
+### NAME : SRIJITH R
 
-### REGISTER NUMBER : 212222240117
+### REGISTER NUMBER : 212221240054
 
 ### Aim: 
 To write a python program to simulate the Zomibie Survival game using A* Search 
