@@ -1,10 +1,7 @@
 # Ex.No: 7 Implementation of Decision Tree Learning
 
-DATE: 
-
-NAME : SRIJITH R
-
-REGISTER NUMBER : 212221240054
+#### DATE: 20/09/2024
+#### REGISTER NUMBER : 212221240054
 
 ### Aim:
 
